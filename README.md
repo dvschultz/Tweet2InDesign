@@ -8,6 +8,6 @@ The main point is to provide very rough, basic example of using Extendables' UI 
 Tested in CS6, not tested in anything lower yet. Feel free to submit bugs for them though.
 
 To install:
-1. Install the Extendables framework: http://github.com/stdbrouw/extendables (put it in Applications > InDesign > Scripts)
-2. Install Tweet2InDesign.jsx in Applications > InDesign > Scripts > Scripts Panel
-3. Open Scripts Panel in Indesign from Window > Utilities > Script Panel and then double click Tweet2InDesign.jsx
+* Install the Extendables framework: http://github.com/stdbrouw/extendables (put it in Applications > InDesign > Scripts)
+* Install Tweet2InDesign.jsx in Applications > InDesign > Scripts > Scripts Panel
+* Open Scripts Panel in Indesign from Window > Utilities > Script Panel and then double click Tweet2InDesign.jsx
